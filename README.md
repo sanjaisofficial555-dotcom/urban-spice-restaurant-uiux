@@ -1,4 +1,6 @@
 # Urban Spice – Restaurant Website UI/UX
+![Urban Spice Responsive UIUX](screenshots/urban-spice-responsive-design.png)
+
 
 A modern, fully responsive restaurant website designed using **Figma** and developed & published with **Framer**.
 
@@ -43,10 +45,12 @@ The project highlights real-world UX considerations such as visual hierarchy, ac
 ## 📱 Screenshots
 
 ### Desktop View
-![Desktop View](screenshots/desktop-home.png)
+![Desktop Home](screenshots/desktop-home.png)
+![Desktop Menu](screenshots/desktop-menu.png)
 
 ### Mobile View
-![Mobile View](screenshots/mobile-home.png)
+![Mobile Home](screenshots/mobile-home.png)
+![Mobile Menu](screenshots/mobile-menu.png)
 
 ---
 
